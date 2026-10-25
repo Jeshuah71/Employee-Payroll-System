@@ -1,0 +1,14 @@
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/bin/Debug/net9.0/EmployeePayroll
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/bin/Debug/net9.0/EmployeePayroll.deps.json
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/bin/Debug/net9.0/EmployeePayroll.runtimeconfig.json
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/bin/Debug/net9.0/EmployeePayroll.dll
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/bin/Debug/net9.0/EmployeePayroll.pdb
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/obj/Debug/net9.0/EmployeePayroll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/obj/Debug/net9.0/EmployeePayroll.AssemblyInfoInputs.cache
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/obj/Debug/net9.0/EmployeePayroll.AssemblyInfo.cs
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/obj/Debug/net9.0/EmployeePayroll.csproj.CoreCompileInputs.cache
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/obj/Debug/net9.0/EmployeePayroll.dll
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/obj/Debug/net9.0/refint/EmployeePayroll.dll
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/obj/Debug/net9.0/EmployeePayroll.pdb
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/obj/Debug/net9.0/EmployeePayroll.genruntimeconfig.cache
+/Users/jeshuaherrera/C# Projects /Employee_Payroll_System/EmployeePayroll/obj/Debug/net9.0/ref/EmployeePayroll.dll
